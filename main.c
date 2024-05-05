@@ -21,7 +21,7 @@ void DrawGUI(void);
 
 const int gridWidth = 100, gridHeight = 100;
 const int blockWidth = 10, blockHeight = 10;
-unsigned int maxFPS = 60;
+float maxFPS = 60;
 
 bool gameGrid[2][gridWidth][gridHeight] = { false };
 
@@ -191,6 +191,7 @@ Vector2 GetMouseGridPosition(int cellWidth, int cellHeight) {
 }
 
 void DrawGUI(void){
-    GuiSliderBar((Rectangle){600,40,120,20}, "Max FPS", NULL, (float *) &maxFPS, 0, 100);
+    GuiSliderBar((Rectangle){600,40,120,20}, "Max FPS", NULL, &maxFPS, 0, 100);
     GuiCheckBox((Rectangle) { 600, 320, 20, 20 }, "Draw Grid", &drawGrid);
+    printf("%i\n",maxFPS);
 }
