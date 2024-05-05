@@ -1,0 +1,23 @@
+# ninja log v5
+3100	3109	1714903376887564989	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	676fab585a71928b
+0	9	1714903373787690284	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	c5946d69f7d6e444
+10	3057	1714903376835101833	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	a84d98993bbe1a24
+0	9	1714903373787690284	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	c5946d69f7d6e444
+10	3057	1714903376835101833	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/5.0.tar.gz	a84d98993bbe1a24
+3057	3066	1714903376844086650	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	ad5b3ab6d8eb0229
+3109	3123	1714903376901034423	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	b04bd7d8d5bdcdb7
+3074	3083	1714903376860793828	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	d2ff159772180c99
+10	3057	1714903376835101833	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	a84d98993bbe1a24
+3057	3066	1714903376844086650	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	ad5b3ab6d8eb0229
+3066	3074	1714903376852372969	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	14b3f417cf5cfeb3
+3091	3100	1714903376878168130	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	d03bb36d81aae933
+3066	3074	1714903376852372969	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	14b3f417cf5cfeb3
+10	3057	1714903376835101833	raylib-populate-prefix/src/5.0.tar.gz	a84d98993bbe1a24
+3083	3091	1714903376869203522	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	998773fda107f626
+3074	3083	1714903376860793828	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	d2ff159772180c99
+3109	3123	1714903376901034423	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	b04bd7d8d5bdcdb7
+3083	3091	1714903376869203522	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	998773fda107f626
+3109	3123	1714903376901034423	/Volumes/2TBSSD/Dev/C/GameOfLive/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	b04bd7d8d5bdcdb7
+3091	3100	1714903376878168130	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	d03bb36d81aae933
+3100	3109	1714903376887564989	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	676fab585a71928b
+3109	3123	1714903376901034423	CMakeFiles/raylib-populate-complete	b04bd7d8d5bdcdb7
